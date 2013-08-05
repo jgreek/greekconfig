@@ -1,4 +1,0 @@
-cd ~/Documents/greekconfig
-git pull origin master
-cp .*rc ~
-cd -

@@ -1,4 +1,5 @@
 cd ~/Documents/greekconfig
+cp ~/.*rc .
 git pull origin master
 git commit -am "Adding config"
 git push origin master
